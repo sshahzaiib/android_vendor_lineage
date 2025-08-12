@@ -2828,16 +2828,15 @@
   <apn carrier="Uninor Internet" mcc="405" mnc="928" apn="Uninor" type="default,supl" />
   <apn carrier="Uninor" mcc="405" mnc="929" apn="Uninor" proxy="10.58.10.58" port="8080" type="default,supl" />
   <apn carrier="Uninor Internet" mcc="405" mnc="929" apn="Uninor" type="default,supl" />
-  <apn carrier="Mobilink" mcc="410" mnc="01" apn="connect.mobilinkworld.com" type="default,supl" />
-  <apn carrier="Mobilink MMS" mcc="410" mnc="01" apn="mms.mobilinkworld.com" user="mobilink" password="mobilink" mmsc="http://mms" mmsproxy="172.25.20.12" mmsport="8080" type="mms" />
-  <apn carrier="Ufone MMS" mcc="410" mnc="03" apn="ufone.mms" mmsc="http://www.ufone.com" mmsproxy="172.16.13.27" mmsport="8080" type="mms" />
+  <apn carrier="Jazz (Mobilink) Prepaid" mcc="410" mnc="01" apn="jazzconnect.mobilinkworld.com" type="default,supl" />
+  <apn carrier="Jazz (Mobilink) Postpaid" mcc="410" mnc="01" apn="connect.mobilinkworld.com" type="default,supl" />
+  <apn carrier="Jazz (Mobilink) MMS" mcc="410" mnc="01" apn="mms.mobilinkworld.com" user="mobilink" password="mobilink" mmsc="http://mms" mmsproxy="172.25.20.12" mmsport="8080" type="mms" />
   <apn carrier="Ufone" mcc="410" mnc="03" apn="ufone.pinternet" type="default,supl" />
+  <apn carrier="Ufone MMS" mcc="410" mnc="03" apn="ufone.mms" mmsc="http://www.ufonemms.com:80/" mmsproxy="172.16.13.27" mmsport="8080" type="mms" />
   <apn carrier="Zong" mcc="410" mnc="04" apn="zonginternet" type="default,supl" />
-  <apn carrier="Zong MMS" mcc="410" mnc="04" apn="zongmms" mmsc="10.81.6.11" mmsproxy="10.81.6.11" mmsport="8080" type="mms" />
+  <apn carrier="Zong MMS" mcc="410" mnc="04" apn="zongmms" mmsc="http://10.81.6.11:8080" mmsproxy="10.81.6.33" mmsport="8000" type="mms" />
   <apn carrier="Telenor PK" mcc="410" mnc="06" apn="internet" user="Telenor" password="Telenor" type="default,supl" />
   <apn carrier="Telenor PK MMS" mcc="410" mnc="06" apn="mms" user="Telenor" password="Telenor" mmsc="http://mmstelenor" mmsproxy="172.18.19.11" mmsport="8080" type="mms" />
-  <apn carrier="Warid PK MMS" mcc="410" mnc="07" apn="mms.warid" mmsc="http://10.4.0.132/servlets/MMS" mmsproxy="10.4.2.1" mmsport="8080" type="mms" />
-  <apn carrier="Warid PK" mcc="410" mnc="07" apn="warid" type="default,supl" />
   <apn carrier="Axis" mcc="410" mnc="08" apn="axis" user="axis" password="123456" type="default,supl" />
   <apn carrier="AWCC" mcc="412" mnc="01" apn="internet" type="default,supl" />
   <apn carrier="AWCC MMS" mcc="412" mnc="01" apn="mms1" mmsc="http://172.17.81.2:8002" mmsproxy="172.17.81.2" mmsport="8002" type="mms" />
